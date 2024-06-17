@@ -227,7 +227,7 @@ import openai
 from pytube import YouTube
 
 # Set your OpenAI API key
-openai.api_key = 'sk-proj-Tkd3V7pVGAaYBszj9FnHT3BlbkFJ25mlfHTLw64ppwZCQyMS'
+openai.api_key = 'enter_your_open_ai_key_here'
 
 # Function to extract entities using OpenAI API
 def extract_entities(text):
